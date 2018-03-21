@@ -14,6 +14,17 @@ media type, as well as any other relevant factors. Users will find it useful whe
 insights regarding the types, quantities, and overall content of the media consumed. It will enable them to understand
 trends in their own consumption habits as well as create an opportunity for more intentional, mindful consumption.
 
+The inspiration for this project stems from my own changing media consumption habits in the wake of the 2016 presidential
+election. Overall I noticed a significant increase in the amount of media I was consuming, as well as a deliberate effort
+to expose myself to media expressing a viewpoint differing from my own. In light of the revelations concerning the use of
+social media and other outlets to impact and influence people's perceptions and influence political events,
+I feel there is a need for interventions to assist people in better understanding the discrepancy between how we think we
+consume media, and how we actually consume media and any consequences that follow. I was further inspired by the knowledge
+that large corporations, tech companies, the government, and Internet Service Providers are all already collecting and
+analyzing vast amounts of data to understand our consumption habits in order to maximize profit and/or influence behavior.
+As a result, I think it is all the more necessary for people to have a tool that allows them to understand on some level
+how their consumption forms a metanarrative that is then utilized by the aforementioned organizations to further their
+own ends.
 
 
 ### Features

@@ -9,8 +9,12 @@ For this assignment you will need to upload your resume, and provide links to yo
 ### GitHub
 Provide a link to your GitHub account here.
 
+https://github.com/ecmanas
+
 ### LinkedIn
 Provide a link to your LinkedIn account here.
+
+https://www.linkedin.com/in/eleni-anas-698337111/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
